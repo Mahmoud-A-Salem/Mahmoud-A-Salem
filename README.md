@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 I’m currently a Student at **Modern Academy Maddi**.
+- 🔭 I’m currently a Student at **Modern Academy Ma'adi**.
 
 - 🌱 I’m currently learning **AI and Data Science Principles**.
 
