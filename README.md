@@ -22,7 +22,7 @@
 ## 🚀 Languages and Tools:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cs,cpp,java,python" />
-    <img src="https://skillicons.dev/icons?i=github,clion,vscode,powerbi,jupyter,kaggle,sklearn" /><br>
+    <img src="https://skillicons.dev/icons?i=github,clion,vscode,sklearn" /><br>
 </div>
 
 <br>
