@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 I recently graduated from **Modern Academy Ma'adi (2025)**.
+- 🔭 I’m currently a Student at **Modern Academy Ma'adi**.
 - 💡 I have a strong foundation in **AI and Data Science Principles**.
 - 🌱 I'm currently focused on **Backend Development**, especially with the **.NET Framework**.
 
