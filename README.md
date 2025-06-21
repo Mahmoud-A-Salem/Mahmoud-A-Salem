@@ -7,9 +7,9 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 I’m currently a Student at **Modern Academy Ma'adi**.
-
-- 🌱 I’m currently learning **AI and Data Science Principles**.
+- 🔭 I recently graduated from **Modern Academy Ma'adi (2025)**.
+- 💡 I have a strong foundation in **AI and Data Science Principles**.
+- 🌱 I'm currently focused on **Backend Development**, especially with the **.NET Framework**.
 
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/Mahmoud-A-Salem?tab=repositories)**.
 
