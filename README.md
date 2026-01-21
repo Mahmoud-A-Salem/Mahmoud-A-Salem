@@ -31,7 +31,8 @@
 > Used for problem solving, academic projects, and AI fundamentals.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,sklearn,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java" />
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow" />
 </div>
 
 <br>
