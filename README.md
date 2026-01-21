@@ -41,14 +41,30 @@
 </div>
 <br>
 
-## 📊 My Stats:
+## 📊 My GitHub Stats
 
-<a href="https://github.com/Mahmoud-A-Salem/github-readme-stats"><img alt="Mahmoud Salem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mahmoud-A-Salem&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/Mahmoud-A-Salem/github-readme-stats"><img alt="Mahmoud Salem's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-A-Salem&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<p align="center">
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mahmoud Salem's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud-A-Salem&theme=black-ice&hide_border=true"/>
+</p>
 
-<br>
+<p align="center">
+  <!-- Public repos stats only -->
+  <a href="https://github.com/Mahmoud-A-Salem/github-readme-stats">
+    <img width="49%" alt="Public Repos Stats" src="https://github-readme-stats.vercel.app/api?username=Mahmoud-A-Salem&show_icons=true&theme=dark&hide_border=true" />
+    <img width="49%" alt="Public Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-A-Salem&langs_count=5&layout=compact&theme=dark&hide_border=true" />
+  </a>
+</p>
+
+## 💼 Professional Skills Breakdown
+
+> *Note: Private/professional work not reflected in public stats above*
+
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  
+| Backend Development | Database & ORM | DevOps & Tools |
+|---------------------|----------------|----------------|
+| • ASP.NET Core Web API<br>• RESTful APIs<br>• Microservices<br>• Authentication/Authorization | • SQL Server<br>• Entity Framework Core<br>• LINQ<br>• Database Design | • Git/GitHub<br>• Docker<br>• Azure<br>• CI/CD Pipelines<br>• Postman/Swagger |
+
 </div>
 <br>
 
