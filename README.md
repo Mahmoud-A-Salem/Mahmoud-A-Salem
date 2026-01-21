@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🎓 **Class of 2025**, **Modern Academy Ma'adi** Graduate.
+- 🎓 Class of 2025, Modern Academy Ma'adi Graduate — GPA: 3.51/4.0 (Second Class Upper)
 - 💼 Software Developer specialized in **Backend Development** using **ASP.NET Core**.
 - 💡 Solid understanding of **AI & Data Science principles**.
 
@@ -43,10 +43,9 @@
 ## 📊 My Stats:
 
 <p align="center">
-    <img src="https://streak-stats.demolab.com?user=Mahmoud-A-Salem&theme=dark&hide_border=true" />
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mahmoud Salem's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud-A-Salem&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mahmoud Salem's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud-A-Salem&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </p>
+
 <a href="https://github.com/Mahmoud-A-Salem/github-readme-stats"><img alt="Mahmoud Salem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mahmoud-A-Salem&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/Mahmoud-A-Salem/github-readme-stats"><img alt="Mahmoud Salem's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-A-Salem&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
