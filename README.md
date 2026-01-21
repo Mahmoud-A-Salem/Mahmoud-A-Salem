@@ -8,8 +8,8 @@
 ## 🙋‍♂️ About Me:
 
 - 🎓 **Class of 2025**, **Modern Academy Ma'adi** Graduate.
-- 💡 I have a strong foundation in **AI and Data Science Principles**.
-- 🌱 I'm currently focused on **Backend Development**, especially with the **ASP.NET Core**.
+- 💼 Software Developer specialized in **Backend Development** using **ASP.NET Core**.
+- 💡 Solid understanding of **AI & Data Science principles**.
 
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/Mahmoud-A-Salem?tab=repositories)**.
 
@@ -19,10 +19,19 @@
 </div>
 <br>
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools (Primary)
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,java,python" />
-    <img src="https://skillicons.dev/icons?i=github,clion,vscode,sklearn" /><br>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver,git" />
+  <img src="https://skillicons.dev/icons?i=github,visualstudio,vscode,postman" />
+</div>
+
+## 🧩 Secondary Skills
+
+> Used for problem solving, academic projects, and AI fundamentals.
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,sklearn,tensorflow" />
 </div>
 
 <br>
@@ -34,12 +43,12 @@
 ## 📊 My Stats:
 
 <p align="center">
-    <a href="https://github.com/Mahmoud-A-Salem/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Mahmoud-A-Salem&theme=dark&hide_border=true" />
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mahmoud Salem's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud-A-Salem&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-<a href="https://github.com/AmmarAgeeza/github-readme-stats"><img alt="Mahmoud Salem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mahmoud-A-Salem&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/AmmarAgeeza/github-readme-stats"><img alt="Mahmoud Salem's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-A-Salem&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/Mahmoud-A-Salem/github-readme-stats"><img alt="Mahmoud Salem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mahmoud-A-Salem&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/Mahmoud-A-Salem/github-readme-stats"><img alt="Mahmoud Salem's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-A-Salem&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <br>
 <div align="center">
