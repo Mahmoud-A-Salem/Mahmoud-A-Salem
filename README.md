@@ -19,11 +19,11 @@
 </div>
 <br>
 
-## 🚀 Languages and Tools (Primary)
+## 🚀 Languages and Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver,git" />
-  <img src="https://skillicons.dev/icons?i=github,visualstudio,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=github,visualstudio,vscode,postman,swagger" />
 </div>
 
 ## 🧩 Secondary Skills
