@@ -63,7 +63,7 @@
   
 | Backend Development | Database & ORM | DevOps & Tools |
 |---------------------|----------------|----------------|
-| • ASP.NET Core Web API<br>• RESTful APIs<br>• Microservices<br>• Authentication/Authorization | • SQL Server<br>• Entity Framework Core<br>• LINQ<br>• Database Design | • Git/GitHub<br>• Docker<br>• Azure<br>• CI/CD Pipelines<br>• Postman/Swagger |
+| • ASP.NET Core Web API<br>• RESTful APIs<br>• Authentication/Authorization | • SQL Server<br>• Entity Framework Core<br>• LINQ<br>• Database Design | • Git/GitHub<br>• Postman/Swagger |
 
 </div>
 <br>
