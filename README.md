@@ -47,14 +47,6 @@
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mahmoud Salem's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud-A-Salem&theme=black-ice&hide_border=true"/>
 </p>
 
-<p align="center">
-  <!-- Public repos stats only -->
-  <a href="https://github.com/Mahmoud-A-Salem/github-readme-stats">
-    <img width="49%" alt="Public Repos Stats" src="https://github-readme-stats.vercel.app/api?username=Mahmoud-A-Salem&show_icons=true&theme=dark&hide_border=true" />
-    <img width="49%" alt="Public Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-A-Salem&langs_count=5&layout=compact&theme=dark&hide_border=true" />
-  </a>
-</p>
-
 ## 💼 Professional Skills Breakdown
 
 > *Note: Private/professional work not reflected in public stats above*
