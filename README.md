@@ -41,7 +41,7 @@
 </div>
 <br>
 
-## 📊 My GitHub Stats
+## 📊 My GitHub Public Stats
 
 <p align="center">
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mahmoud Salem's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud-A-Salem&theme=black-ice&hide_border=true"/>
